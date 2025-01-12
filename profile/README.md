@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Room Reservation System
 
 ## Overview
